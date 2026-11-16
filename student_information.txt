@@ -17,3 +17,10 @@ Father's Name       : Dennis Joseph
 Mother's Name       : Mary Dennis
 Parent Contact      : 9123456780
 
+Academic Details
+----------------
+Programme           : Bachelor of Computer Applications (Honours)
+Class               : 8BCAHONS
+Course              : BCA513-8 DevOps and Automation Framework
+Department          : Computer Science
+Academic Year       : 2026-27
