@@ -7,7 +7,7 @@ Name                : Thomas Dennis
 Register Number     : 2341568
 Date of Birth       : 15-08-2005
 Gender              : Male
-Mobile Number       : 9876543210
+Mobile Number       : 9888888888
 Email               : student@example.com
 Address             : Bengaluru, Karnataka
 
