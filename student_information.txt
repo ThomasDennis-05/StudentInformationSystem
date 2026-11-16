@@ -11,3 +11,9 @@ Mobile Number       : 9876543210
 Email               : student@example.com
 Address             : Bengaluru, Karnataka
 
+Parents Details
+---------------
+Father's Name       : Dennis Joseph
+Mother's Name       : Mary Dennis
+Parent Contact      : 9123456780
+
